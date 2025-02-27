@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ceritasiang.github.io/newsdaily/sitemap.xml
